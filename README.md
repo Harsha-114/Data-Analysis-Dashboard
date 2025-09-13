@@ -1,5 +1,5 @@
- #Ferns and Petals (FNP) Sales Analysis – Excel Dashboard
-📌## Problem Statement
+ 🌸 Ferns and Petals (FNP) Sales Analysis – Excel Dashboard
+📌 Problem Statement
 
 Ferns and Petals (FNP) is a gifting company that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine’s Day, Birthdays, and Anniversaries.
 
@@ -89,3 +89,10 @@ Popular Products: Dessert Box, Gift Hampers, and Magnum Set were top-selling ite
 ✅ Helps identify seasonal sales patterns and customer preferences.
 ✅ Assists in strategic decision-making for inventory and marketing campaigns.
 ✅ Improves customer satisfaction by analyzing delivery time trends.
+
+📂 Dataset
+
+You can access the dataset here:
+🔗 Download Dataset
+
+(https://github.com/Ayushi0214/FNP---Excel-Project/tree/main/fnp%20datasets)
